@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">isensmartcompanion</string>
+
+    <string name="navigation_bar_label_assistant">Assistant</string>
+    <string name="navigation_bar_label_event">Events</string>
+    <string name="navigation_bar_label_history">History</string>
+    <string name="navigation_bar_label_agenda">Agenda</string>
+
+    <string name="assistant_screen_label_asking">Ask a question</string>
+    <string name="assistant_screen_label_toast_success">Question Submitted</string>
+    <string name="assistant_screen_label_toast_error">Error: </string>
+    <string name="assistant_screen_label_send">Send</string>
+
+    <string name="event_details_screen_label_title">Available events</string>
+    <string name="event_details_screen_label_description">Subscribe on available events</string>
+    <string name="event_details_screen_label_no_event_data_available">No event data available.</string>
+    <string name="event_details_screen_label_reminder">Reminder:</string>
+    <string name="event_details_screen_label_enable_reminder">enable</string>
+    <string name="event_details_screen_label_disable_reminder">disable </string>
+    <string name="event_details_screen_label_notification_send">Notification triggered in 5s</string>
+
+    <string name="event_details_label_title">Title:</string>
+    <string name="event_details_label_description">Description:</string>
+    <string name="event_details_label_date">Date:</string>
+    <string name="event_details_label_location">Location:</string>
+    <string name="event_details_label_category">Category:</string>
+
+    <string name="history_screen_label_title">My History</string>
+    <string name="history_screen_label_description">All your past questions and answers</string>
+    <string name="history_screen_label_clear_all">Clear Entire History</string>
+    <string name="history_screen_label_question">Question:</string>
+    <string name="history_screen_label_answer">Answer:</string>
+    <string name="history_screen_label_date">Date:</string>
+    <string name="history_screen_label_delete">Delete</string>
+
+    <string name="agenda_screen_label_title">My Agenda</string>
+    <string name="agenda_screen_label_description">Swipe horizontally to navigate months!</string>
+    <string name="agenda_screen_label_event_selected">Pinned Events for the selected day:</string>
+    <string name="agenda_screen_label_no_event_selected">No pinned events selected.</string>
+    <string name="agenda_screen_label_no_event_data_available">No pinned events yet.</string>
+    <string name="agenda_screen_label_unpin">Unpin Event</string>
+
+
 </resources>
